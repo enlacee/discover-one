@@ -69,7 +69,7 @@ function do_install()
 }
 
 /**
- * Unistall data plugin
+ * Uninstall plugin data
  *
  * @return void
  */
